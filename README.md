@@ -1,5 +1,3 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-
 Hi, I'm Ty 👋
 
 Backend Developer currently focused on Java Springboot.
