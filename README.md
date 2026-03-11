@@ -1,6 +1,6 @@
 Hi, I'm Ty 👋
 
-Backend Developer currently focused on Java Springboot.
+Backend Developer currently focused on Java Spring Boot.
 
 Always learning and improving 🚀
 
